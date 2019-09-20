@@ -1,0 +1,39 @@
+\begin{thebibliography}{}
+
+\bibitem{katz}
+Leo Katz.
+\textit{A New Status Index Derived from Sociometric Analysis}
+
+\bibitem{lpnn}
+Muhan Zhang, Yixin Chen.
+\textit{Link Prediction Based on Graph Neural Networks}
+
+\bibitem {wlnn}
+Muhan Zhang, Yixin Chen.
+\textit{Weisfeiler-Lehman Neural Machine for Link Prediction}
+
+\bibitem {mf}
+Yehuda Koren, Robert Bell and Chris Volinsky
+\textit{Matrix Factorization for recommender system}
+
+\bibitem {bprmf}
+Steffen Rendle, Christoph Freudenthaler, Zeno Gantner and Lars Schimidt-Thieme
+\textit{BPR: Bayesian Personalized Ranking from Implicit Feedback}
+
+\bibitem{adar}
+Lada A Adamic and Eytan Adar
+\textit{Friends and neighbors on the web. Social networks, 25(3):221-340, 2003}
+
+\bibitem {ra}
+Tao Zhou, Linyuan Lu, and Yi-Cheng Zhang. 
+\textit{Predictiong missing links via local information. The European Physical Journal B, 71(4):623-630, 2009}
+
+\bibitem {pa}
+Albert-Laszlo Barabasi and Reka Albert. 
+\textit{Emergence of scaling in random networks. Science, 286(5439):509-512, 1999.}
+
+\bibitem {bigclam}
+Jaewon Yang, Jure Leskovec
+\textit{Overlapping Community Detection at Scale: A Nonnegative Matrix Factorization Approach} 
+
+\end{thebibliography}
